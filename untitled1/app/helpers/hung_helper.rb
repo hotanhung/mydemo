@@ -1,0 +1,2 @@
+module HungHelper
+end
